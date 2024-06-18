@@ -1,0 +1,21 @@
+.service {
+    display: inline-block;
+    width: 25%;
+
+}
+
+.services {
+    text-align: center;
+}
+
+.fa-regular {
+    color: red;
+}
+
+.fa-solid {
+    color: red;
+}
+
+p {
+    color: gray
+}
